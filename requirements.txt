@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+supabase
+python-dotenv
+PyPDF2
+groq
+google-generativeai
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+requests
+pydantic
+pydantic-settings
+email-validator
